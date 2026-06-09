@@ -1,0 +1,14 @@
+const a= 90;
+const b= 10;
+const sum = a*b;
+console.log(sum);
+const difference = a-b;
+console.log(difference);
+const product = a*b;
+console.log(product);
+const quotient = a/b;
+console.log(quotient); 
+const modulus = a%b;
+console.log(modulus);   
+const exponentiation = a**b;
+console.log(exponentiation);
